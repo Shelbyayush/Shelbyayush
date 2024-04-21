@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shelbyayush
-- 👀 I’m interested in Data Structures & Algorithms
+- 👀 I’m interested in Data Structures & Algorithms and java AWT projects.
 - 🌱 I’m currently learning java language. 
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me:
