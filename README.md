@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shelbyayush
 - 👀 I’m interested in Data Structures & Algorithms
-- 🌱 I’m currently learning C language. 
-- 💞️ I’m looking to collaborate on C projects
+- 🌱 I’m currently learning java language. 
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me:
 
 - 📸: shelbyayush
